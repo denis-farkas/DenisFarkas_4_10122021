@@ -1,6 +1,6 @@
-# Openclassrooms - ohmyfood solution
+# Openclassrooms - gameOn solution
 
-This is a solution to the Project 3 - openclassrooms "formation Frontend React - Javascript".
+This is a solution to the Project 4 - openclassrooms "formation Frontend React - Javascript".
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ This is a solution to the Project 3 - openclassrooms "formation Frontend React -
 
 ### The challenge
 
-Integration project from jpg, Responsive with cards, using scss and gulp for compiling css and optimize images
+Integration project from figma, Responsive , using form validation with javascript
 
 ### Screenshot
 
@@ -25,8 +25,8 @@ Integration project from jpg, Responsive with cards, using scss and gulp for com
 
 ### Links
 
-- Solution URL: [github](https://github.com/denis-farkas/DenisFarkas_3_25112021)
-- Live Site URL: [github page](https://denis-farkas.github.io/DenisFarkas_3_25112021/)
+- Solution URL: [github](https://github.com/denis-farkas/DenisFarkas_4_10122021)
+- Live Site URL: [vercel](https://gameon-iwjroa0me-denis-farkas.vercel.app/)
 
 ## My process
 
